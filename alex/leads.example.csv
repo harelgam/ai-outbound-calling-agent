@@ -1,0 +1,7 @@
+lead_id,name,title,company,industry,employees,signal,email,phone
+L001,Jordan Avery,VP Sales,Brightwave Analytics,B2B SaaS,130,"Scaling outbound after Series A; hiring 3 SDRs this quarter",jordan.avery@example.com,+15551234567
+L002,Marcus Reed,Head of Growth,Paylane,Fintech,320,"Just announced Series B; expanding US outbound",marcus.reed@example.com,
+L003,Priya Nair,Director of Revenue Ops,Helixware,DevTools,90,"Switched CRM to Salesforce 2 months ago",,
+L004,Tom Becker,Founder & CEO,Brightloop,MarTech,25,"Posting about manual prospecting pain on LinkedIn",,
+L005,Aisha Khan,VP Marketing,Stackforge,B2B SaaS,210,"Booth at SaaStr; running new ABM motion",aisha@example.com,
+L006,Diego Alvarez,Sales Director,Cargolytics,Logistics Tech,180,"Quarterly pipeline down 15% per recent earnings note",,

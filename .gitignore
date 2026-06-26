@@ -1,0 +1,19 @@
+.env
+data/
+secrets/
+alex/leads.csv
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# IDE / OS
+.idea/
+*.lnk
+
+# Submission artifacts & generated docs (not source)
+*.zip
+*.pptx
+*.docx
+Screenshot*.png

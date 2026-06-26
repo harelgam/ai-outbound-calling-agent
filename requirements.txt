@@ -1,0 +1,11 @@
+anthropic>=0.69
+fastapi>=0.115
+uvicorn>=0.30
+requests>=2.31
+python-dotenv>=1.0
+pydantic>=2.7
+pytest>=8.0
+# Optional — only needed when GCAL_ENABLED=true (real Google Calendar invites)
+google-api-python-client>=2.100
+google-auth>=2.30
+google-auth-oauthlib>=1.2
